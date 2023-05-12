@@ -51,11 +51,11 @@ The data analysis includes the following visualizations:
 ## Screenshots
 Here are some screenshots of the visualizations:
 
-![Total Sales by Product Type](./Total Sales by Product Type.png)
+![Total Sales by Product Type](https://github.com/fatemehkarami/Grocery-Sales-Data-Analysis.git/main/Total Sales by Product Type.png)
 
-![Total Sales by Region](./Total Sales by Region.png)
+![Total Sales by Region](https://github.com/fatemehkarami/Grocery-Sales-Data-Analysis.git/main/Total Sales by Region.png)
 
-![Total Sales per Year](./Total Sales per Year.png)
+![Total Sales per Year](https://github.com/fatemehkarami/Grocery-Sales-Data-Analysis.git/main/Total Sales per Year.png)
 
 
 ## Conclusion
