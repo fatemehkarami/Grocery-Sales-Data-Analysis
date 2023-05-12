@@ -51,6 +51,12 @@ The data analysis includes the following visualizations:
 ## Screenshots
 Here are some screenshots of the visualizations:
 
+![Total Sales by Product Type](Total Sales by Product Type.png)
+
+![Total Sales by Region](Total Sales by Region.png)
+
+![Total Sales per Year](Total Sales per Year.png)
+
 
 ## Conclusion
 This project provides insights into the sales performance of a grocery store. The analysis shows the sales by product group, product line, and product subgroup, and identifies the top-selling items and customers. The project also identifies the cities and regions with the highest sales, and the most profitable items. This information can be used to optimize the store's sales strategy and improve its performance.
